@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_banking_dashboard"]=self["webpackChunkvue_banking_dashboard"]||[]).push([[443],{7750:function(n,u,a){a.r(u),a.d(u,{default:function(){return l}});var s=function(){var n=this;n._self._c;return n._m(0)},t=[function(){var n=this,u=n._self._c;return u("div",{staticClass:"about"},[u("h1",[n._v("This is an about page")])])}],e=a(1001),r={},i=(0,e.Z)(r,s,t,!1,null,null,null),l=i.exports}}]);
+//# sourceMappingURL=about.ab6c2adf.js.map
